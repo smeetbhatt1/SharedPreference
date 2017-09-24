@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF5722</color>
+    <color name="primary_dark">#E64A19</color>
+    <color name="primary_light">#FFCCBC</color>
+    <color name="accent">#4CAF50</color>
+    <color name="accent_light">#66BB6A</color>
+    <color name="accent_translucent">#804CAF50</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="primary_text_invert">#DEDEDE</color>
+    <color name="secondary_text_invert">#8D8D8D</color>
+
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="white_transparent">#90FFFFFF</color>
+
+    <color name="backgroundColor">@color/background_material_dark</color>
+    <color name="backgroundColorPress">@color/accent_material_dark</color>
+
+    <!-- material design color set for TextDrawable -->
+    <color name="color_1">#DB4437</color>
+    <color name="color_2">#E91E63</color>
+    <color name="color_3">#FF5722</color>
+    <color name="color_4">#EF6C00</color>
+    <color name="color_5">#689F38</color>
+    <color name="color_6">#0097A7</color>
+    <color name="color_7">#4285F4</color>
+    <color name="color_8">#039BE5</color>
+    <color name="color_9">#3F51B5</color>
+    <color name="color_10">#673AB7</color>
+    <color name="color_11">#757575</color>
+
+    <color name="material_color_grey_400">#bdbdbd</color>
+
+    <color name="list_choice_normal_bg_light">#ffff</color>
+    <color name="list_choice_pressed_bg_light">#fccc</color>
+    <color name="fast_scroll">#FF737373</color>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SharedPrefered</string>
+    <string name="email">Email</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="remember_me_text">Remember Me</string>
+    <string name="action_login_in_short">Login</string>
+    <string name="invalid_input">Invalid Email</string>
+    <string name="missing">Required Field Are Missing</string>
+    <string name="invalid_pass">Minimum 8 Characters</string>
+    <string name="checkBox">checkbox</string>
+    <string name="email_sh">email</string>
+    <string name="password_sh">password</string>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+</resources>
