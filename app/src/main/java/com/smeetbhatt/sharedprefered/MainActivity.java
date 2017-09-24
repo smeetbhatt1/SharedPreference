@@ -2,17 +2,13 @@ package com.smeetbhatt.sharedprefered;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import android.os.Vibrator;
 import android.preference.PreferenceManager;
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
-import android.util.Log;
 import android.view.View;
 import android.view.WindowManager;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
@@ -25,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private SharedPreferences mPreferences;
     private SharedPreferences.Editor mEditor;
     private static final String TAG = "MainAcitivity";
-    @BindView(R.id.btn_sign_in) Button btn_sign_in;
+    @BindView(R.id.buttonLogin) Button btn_sign_in;
     @BindView(R.id.prompt_email) EditText prompt_email;
     @BindView(R.id.prompt_password) EditText prompt_password;
     @BindView(R.id.textInputLayout_email) TextInputLayout textInputLayout_email;
